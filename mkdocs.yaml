@@ -28,6 +28,9 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+  extra:
+    version:
+      provider: mike
 
 extra:
   font:
