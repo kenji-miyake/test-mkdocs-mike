@@ -46,6 +46,7 @@ extra_javascript:
 plugins:
   - awesome-pages
   - search
+  - mike:
 
 markdown_extensions:
   - admonition
